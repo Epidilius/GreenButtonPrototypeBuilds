@@ -17,14 +17,14 @@ The hardware will be a small, slightly flexible chip that sticks to your power c
 It's easy to install, easy to use, and once you register a device, the app does the rest. If you want to consistently check your usage, you can. You can also do nothing until you get an alert that your freezer's usage has spiked in the past ten minutes. Maybe it's open.
 
 Current Features:
-Create new devices
-Delete all devices
-Graph up to four devices at a time
-Compare to region and industry usage ( but not really, the data here is faked )
+-Create new devices
+-Delete all devices
+-Graph up to four devices at a time
+-Compare to region and industry usage ( but not really, the data here is faked )
 
 Future Features;
-Sort your devices
-Personalize the device picture
-Compare to other users
-Better UI
-Suggestions on energy consumption
+-Sort your devices
+-Personalize the device picture
+-Compare to other users
+-Better UI
+-Suggestions on energy consumption
