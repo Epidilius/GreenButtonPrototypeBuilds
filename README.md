@@ -16,6 +16,8 @@ The hardware will be a small, slightly flexible chip that sticks to your power c
 
 It's easy to install, easy to use, and once you register a device, the app does the rest. If you want to consistently check your usage, you can. You can also do nothing until you get an alert that your freezer's usage has spiked in the past ten minutes. Maybe it's open.
 
+When I add features, I will add a second .apk file. The original one will remain ( for the Green Button challenge ), and the second will change as I commit more to it.
+
 Current Features:
 -Create new devices
 -Delete all devices
